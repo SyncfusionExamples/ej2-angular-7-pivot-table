@@ -1,7 +1,7 @@
 # Syncfusion Angular 7 Pivot table Quick Start Project
 
 A quick start project that helps you to create the Syncfusion Angular 7 Pivot Table with minimal code configuration.
-![Angular 7 Pivot-table](angular-7-pivot-table.png)
+![Angular 7 Pivot-table](angular-7-pivot-table.PNG)
 
 ## Pivot table features covered in this Project
 
